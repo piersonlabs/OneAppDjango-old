@@ -1,0 +1,12 @@
+/*
+Template Name: Greyjoy Framework
+Author: Dane Hesseldahl
+Author URI: http://doesnotvalidate.com
+Version: 1.0
+*/
+
+body.wysiwyg  {
+	font : 12px/18px Arial;
+	padding : 10px;
+	cursor : text;
+}

@@ -1,0 +1,104 @@
+@font-face 
+{
+	font-family: 'Conv_KlavikaLight-Plain';
+	src: url('fonts/KlavikaLight-Plain.eot');
+	src: local('☺'), url('../fonts/KlavikaLight-Plain.woff') format('woff'), url('../fonts/KlavikaLight-Plain.ttf') format('truetype'), url('../fonts/KlavikaLight-Plain.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face 
+{
+	font-family: 'LeagueGothic';
+	src: url('../fonts/leaguegothic.eot');
+	src: url('../fonts/leaguegothic.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/leaguegothic.woff') format('woff'),
+		 url('../fonts/leaguegothic.ttf') format('truetype'),
+		 url('../fonts/leaguegothic.svg#leaguegothic') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'KlavikaLightPlain';
+	src: url('../fonts/klavikalight-plain-webfont.eot');
+	src: url('../fonts/klavikalight-plain-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/klavikalight-plain-webfont.woff') format('woff'),
+		 url('../fonts/klavikalight-plain-webfont.ttf') format('truetype'),
+		 url('../fonts/klavikalight-plain-webfont.svg#KlavikaLightPlain') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'KlavikaBoldTF';
+	src: url('../fonts/klavikabold_tf-webfont.eot');
+	src: url('../fonts/klavikabold_tf-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/klavikabold_tf-webfont.woff') format('woff'),
+		 url('../fonts/klavikabold_tf-webfont.ttf') format('truetype'),
+		 url('../fonts/klavikabold_tf-webfont.svg#') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'KlavikaMediumPlain';
+	src: url('../fonts/klavikamedium-plain-webfont.eot');
+	src: url('../fonts/klavikamedium-plain-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/klavikamedium-plain-webfont.woff') format('woff'),
+		 url('../fonts/klavikamedium-plain-webfont.ttf') format('truetype'),
+		 url('../fonts/klavikamedium-plain-webfont.svg#KlavikaMediumPlain') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'KlavikaRegularPlain';
+	src: url('../fonts/klavikaregular-plain-webfont.eot');
+	src: url('../fonts/klavikaregular-plain-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/klavikaregular-plain-webfont.woff') format('woff'),
+		 url('../fonts/klavikaregular-plain-webfont.ttf') format('truetype'),
+		 url('../fonts/klavikaregular-plain-webfont.svg#KlavikaRegularPlain') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'LeagueGothicRegular';
+	src: url('../fonts/league_gothic-webfont.eot');
+	src: url('../fonts/league_gothic-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/league_gothic-webfont.woff') format('woff'),
+		 url('../fonts/league_gothic-webfont.ttf') format('truetype'),
+		 url('../fonts/league_gothic-webfont.svg#LeagueGothicRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'edelsansUltraLight';
+	src: url('../fonts/edel_sans_light-webfont.eot');
+	src: url('../fonts/edel_sans_light-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/edel_sans_light-webfont.woff') format('woff'),
+		 url('../fonts/edel_sans_light-webfont.ttf') format('truetype'),
+		 url('../fonts/edel_sans_light-webfont.svg#edelsansUltraLight') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@font-face {
+	font-family: 'edelsansRegular';
+	src: url('../fonts/edel_sans_regular_3-webfont.eot');
+	src: url('../fonts/edel_sans_regular_3-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/edel_sans_regular_3-webfont.woff') format('woff'),
+		 url('../fonts/edel_sans_regular_3-webfont.ttf') format('truetype'),
+		 url('../fonts/edel_sans_regular_3-webfont.svg#edelsansRegular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
