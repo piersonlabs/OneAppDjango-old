@@ -6,7 +6,7 @@ SITE_ROOT = os.path.dirname(os.path.realpath(__file__))
 GRAPPELLI_ADMIN_TITLE = "One App Content Administration"
 #GRAPPELLI_INDEX_DASHBOARD = 'dashboard.CustomIndexDashboard'
 DEBUG = True
-LOCAL = True
+LOCAL = False
 TEMPLATE_DEBUG = DEBUG
 SECRET_KEY = '&amp;vfd6x75sqm$!dm$df)x3%m*f#lm^rjo(rz$sdfads3)62=&amp;$-'
 ADMINS = (('Dane Hesseldahl', 'dane.hesseldahl@gmal.com'),)
