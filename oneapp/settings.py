@@ -174,7 +174,7 @@ MIDDLEWARE_CLASSES = (
 )
 
 INSTALLED_APPS = (
-	'grappelli.dashboard',
+#	'grappelli.dashboard',
 	'grappelli',
 	'django.contrib.auth',
 	'django.contrib.contenttypes',
