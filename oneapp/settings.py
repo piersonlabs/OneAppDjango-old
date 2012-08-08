@@ -35,8 +35,8 @@ else:
 ANONYMOUS_USER_ID = 1
 AWS_ACCESS_KEY_ID = 'AKIAIHOPPUYH7VQHG3BA'
 AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 'oneapp'
-AWS_BUCKET_NAME = 'oneapp'
+AWS_STORAGE_BUCKET_NAME = 'one-app'
+AWS_BUCKET_NAME = 'one-app'
 
 FACEBOOK_APPLICATION_ID = 115387878589734
 FACEBOOK_APPLICATION_SECRET_KEY = '9ec37b21b6d33495c28a6ca448fec021'
@@ -105,8 +105,8 @@ else:
 	MEDIA_ROOT = ''
 	MEDIA_URL = ''
 	STATIC_ROOT = ''
-	STATIC_URL = 'http://oneapp.s3-website-us-west-2.amazonaws.com/'
-	UPLOADS_URL = 'http://oneapp.s3-website-us-west-2.amazonaws.com/'
+	STATIC_URL = 'http://one-app.s3-website-us-west-2.amazonaws.com/'
+	UPLOADS_URL = 'http://one-app.s3-website-us-west-2.amazonaws.com/'
 	ADMIN_MEDIA_PREFIX = STATIC_URL + "grappelli/"
 
 	STATICFILES_DIRS = (os.path.join(SITE_ROOT, 'assets'),)
