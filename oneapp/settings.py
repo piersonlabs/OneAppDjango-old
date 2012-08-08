@@ -105,8 +105,8 @@ else:
 	MEDIA_ROOT = ''
 	MEDIA_URL = ''
 	STATIC_ROOT = ''
-	STATIC_URL = 'http://oneapp.s3-website-us-west-2.amazonaws.com/'
-	UPLOADS_URL = 'http://oneapp.s3-website-us-west-2.amazonaws.com/'
+	STATIC_URL = 'https://s3-us-west-2.amazonaws.com/oneapp/'
+	UPLOADS_URL = 'https://s3-us-west-2.amazonaws.com/oneapp/'
 	ADMIN_MEDIA_PREFIX = STATIC_URL + "grappelli/"
 
 	STATICFILES_DIRS = (os.path.join(SITE_ROOT, 'assets'),)
